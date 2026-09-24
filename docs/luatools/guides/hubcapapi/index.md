@@ -1,7 +1,7 @@
 ---
 sidebar_label: 'Hubcap API'
-sidebar_position: 2
-slug : /luatools/hubcapapi
+sidebar_position: 1
+slug : /luatools/guides/hubcapapi
 ---
 
 # Hubcap API

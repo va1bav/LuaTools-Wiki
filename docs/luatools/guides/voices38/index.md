@@ -1,4 +1,5 @@
 ---
+sidebar_label: 'Voices38'
 sidebar_position: 1
 slug: /luatools/guides/voices38
 ---
@@ -6,9 +7,7 @@ slug: /luatools/guides/voices38
 # How to Apply voices38 Cracks
 
 :::tip Before You Continue
-If your game is already installed. Delete your game's lua from the luatools app, then click on 'Manifest' in the fixes tab.  
-
-Don't worry, this will not delete the game, this is to replace the manifest to the voices38 one.
+If your game is already installed. [Click Here](voices38/revert)
 :::
 
 **Step 1**: Go to Fixes and look for your game.
