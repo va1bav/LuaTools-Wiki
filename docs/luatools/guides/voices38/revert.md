@@ -9,3 +9,5 @@ slug: /luatools/guides/voices38/revert
   <source src="https://files.catbox.moe/riqrvi.mp4" type="video/mp4" />
 </video>
 :::
+
+[**Go Back**](./index.md)

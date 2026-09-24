@@ -7,7 +7,7 @@ slug: /luatools/guides/voices38
 # How to Apply voices38 Cracks
 
 :::tip Before You Continue
-If your game is already installed. [Click Here](voices38/revert)
+If your game is already installed: [Click Here](voices38/revert)
 :::
 
 **Step 1**: Go to Fixes and look for your game.

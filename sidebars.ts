@@ -78,6 +78,7 @@ const sidebars: SidebarsConfig = {
           label: 'FAQ',
           collapsed: false,
           items: [
+            'luatools/faq/index',
             'luatools/faq/powershellerror/index',
             'luatools/faq/luatoolsmenu/index'
           ],
