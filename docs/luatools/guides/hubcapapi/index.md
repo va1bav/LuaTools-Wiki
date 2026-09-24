@@ -15,7 +15,7 @@ Step 1: First, join the [HubcapManifest](discord.gg/hubcapsmanifest) discord ser
 
 Step 2: Click the link shown in the first image and sign up there as well.
 
-Step 3: You should see API in the top right corner of the page. Click Generate Key and enter it into your Luatools app.
+Step 3: You should see API in the top right corner of the page. Click Generate Key and enter it into your LuaTools app.
 
 Keys are valid for 7 days, you will need to regenerate the key every week.
 

@@ -17,7 +17,7 @@ Get the app from [lua.tools/app](https://lua.tools/app).
 
 - Join the [Discord](https://discord.gg/luatools) server.
 - Go to #bot-spam and type **/login**
-- You will now get a code that you can use to authenticate in the app. Copy the code and paste it in the Luatools Settings menu.
+- You will now get a code that you can use to authenticate in the app. Copy the code and paste it in the LuaTools Settings menu.
 
 ## Installing the Steam Plugin
 :::note  

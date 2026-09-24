@@ -14,5 +14,5 @@ slug: /luatools/guides
 - [Troubleshooting](/docs/luatools/faq/troubleshooting)
 
 :::info Game Specific Guides
-If you're looking for game specific fixes/guides, Join the [Discord](https://discord.gg/luatools) and check the #luatools-wiki forum page for more information.
+If you're looking for game specific fixes/guides, join the [Discord](https://discord.gg/luatools) and check the #luatools-wiki forum page for more information.
 :::

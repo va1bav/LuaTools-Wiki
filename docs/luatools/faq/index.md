@@ -12,16 +12,16 @@ Your ISP may be blocking connections, use [**Cloudflare WARP**](https://one.one.
 
 ### I'm trying to download a game but it says No Internet Connection / Purchase Error / No License!
 
-Reinstall Bettersteamtools from the luatools app. If it still dosen't work, use cloudflare warp.
+Reinstall BetterSteamTools from the luatools app. If it still doesn't work, use cloudflare warp.
 
 ### When trying to launch a game, I get error 51/54/86
 
-Your game has steamstub (which is a type of drm) which is directly linked to the executable. To bypass this, paste the following in your terminal as administrator and replace 'SETAPPID' to the appid of your game.
+Your game has steamstub (which is a type of DRM) which is directly linked to the executable. To bypass this, paste the following in your terminal as administrator and replace 'SETAPPID' to the appid of your game.
 ```
 & ([scriptblock]::Create((irm "https://raw.githubusercontent.com/Peron4TheWin/ps1collection/refs/heads/main/steamless.ps1"))) -AppId SETAPPIDHERE
 ```
 
-### My game dosen't have a fix/crack!
+### My game doesn't have a fix/crack!
 
 There is a 99% chance that you probably don't need a fix for smaller singleplayer games.
 

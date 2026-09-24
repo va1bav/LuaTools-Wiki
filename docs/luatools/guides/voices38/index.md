@@ -4,7 +4,7 @@ sidebar_position: 1
 slug: /luatools/guides/voices38
 ---
 
-# How to Apply voices38 Cracks
+# How to Apply Voices38 Cracks
 
 :::tip Before You Continue
 If your game is already installed: [Click Here](voices38/revert)
